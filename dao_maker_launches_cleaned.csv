@@ -1,0 +1,94 @@
+	name	money_raised	ATH_ROI	catg	VC	MM	cap_controlled	dao_approved	cg_id	launch_date	chain	total_supply	btc_f&g_index	launch_month
+0	gamium	200000	43	Metaverse	 DAO Maker 	 DAO Maker 	0.0	0.0	gamium	30/03/22	binance-smart-chain	6324100709.91762	55	3
+1	adaswap	195000	12	DeFi	 Shima Capital 	 MarketMaker.io 	0.0	0.0	adaswap	05/04/22	ethereum	10000000000.0	53	4
+2	step-app	2750000	149	Move To Earn	0	 Kairon Labs 	1.0	1.0	step-app-fitfi	26/04/22	avalanche	5000000000.0	27	4
+3	dragon-sb	195000	9	Gaming	 DnR Labs 	0	0.0	1.0	dragonsb	15/03/22	binance-smart-chain	95000000.0	21	3
+4	defiato	600000	2	DeFi	 CRC 	 MarketMaker.io 	0.0	1.0	defiato	16/12/20	ethereum	250000000.0	92	12
+5	spellfire	245000	6	Gaming	 DAO Maker 	 Kairon Labs 	0.0	0.0	spellfire	27/01/22	ethereum	640000000.0	20	1
+6	bbs-network	550000	4	Social network	 Binance 	0	1.0	1.0	bbs-network	17/02/22	ethereum	1000000000.0	52	2
+7	hubble	1500000	5	DeFi	 Delphi Digital 	 Skynet Trading 	0.0	0.0	hubble	28/01/22	solana	100000000.0	24	1
+8	fantom-maker	95000	4	DeFi	 Halvings 	 DAO Maker 	0.0	1.0	fantom-maker	04/03/22	fantom	600000000.0	33	3
+9	infinity-skies	200000	1	Gaming	 Jump 	 Jump 	0.0	1.0	infinity-skies	14/01/22	polygon-pos	100000000.0	21	1
+10	ftribe-fighters	95000	10	Metaverse	 Raptor 	0	0.0	1.0	ftribe-fighters	05/01/22	binance-smart-chain	1000000000.0	24	1
+11	mgg	195000	4	Guild	 SparkPoint 	 DAO Maker 	0.0	0.0	metagaming-guild	10/02/22	ethereum	999230770.0	50	2
+12	metagods	95000	36	Gaming	 Cinchblock 	0	0.0	0.0	metagods	17/12/21	binance-smart-chain	500000000.0	23	12
+13	wam	280000	10	Gaming	 DAO Maker 	 MarketMaker.io 	0.0	1.0	wam	20/12/21	binance-smart-chain	1000000000.0	25	12
+14	solice	95000	71	Metaverse	 Three Arrows Capital 	 Skynet Trading 	0.0	0.0	solice	07/01/22	solana	400000000.0	18	1
+15	kingdomx	115000	6	Gaming	 LD Capital 	 MarketMaker.io 	1.0	1.0	kingdomx	09/02/22	binance-smart-chain	1000000000.0	54	2
+16	1sol	147000	7	DEX	 NGC 	 Jump 	0.0	1.0	1sol	15/12/21	ethereum	100000000.0	28	12
+17	prometheus	245000	9	Gaming	 Lucid Blue 	 Skynet Trading 	0.0	0.0	metagame-arena	30/11/21	binance-smart-chain	30000000.0	40	11
+18	symbiosis-finance	435000	7	Exchange	 Blockchain.com 	 Kairon Labs 	0.0	1.0	symbiosis-finance	02/12/21	ethereum	100000000.0	32	12
+19	meta-soccer	295000	5	Metaverse	 Defiance 	 DAO Maker 	0.0	0.0	metasoccer	17/12/21	polygon-pos	384005644.606959	23	12
+20	shopnext	130000	26	Market	 DAO Maker 	 MarketMaker.io 	0.0	1.0	shopnext	02/12/21	binance-smart-chain	1000000000.0	32	12
+21	bitlocus	145000	18	Financial Service	 DAO Maker 	 MarketMaker.io 	0.0	1.0	bitlocus	03/12/21	terra	500000000.0	31	12
+22	titan-hunters	95000	49	Gaming	 Rikkei 	 MarketMaker.io 	0.0	1.0	titan-hunters	18/11/21	binance-smart-chain	1000000000.0	54	11
+23	kaka-nft	145000	33	NFT	 Lucid Blue 	 Blockpulse 	0.0	1.0	kaka-nft-world	25/11/21	binance-smart-chain	100000000.0	32	11
+24	victoria-vr	100000	209	Metaverse	 DAO Maker 	0	0.0	1.0	victoria-vr	03/12/21	ethereum	16800000000.0	31	12
+25	bemil-coin	95000	55	Gaming	 Faraland 	 Acheron Trading 	0.0	1.0	bemil-coin	25/11/21	binance-smart-chain	1000000000.0	32	11
+26	polygonum-online	115000	36	Gaming	 IDO Research Ventures 	 Skynet Trading 	0.0	1.0	pog-coin	30/11/21	binance-smart-chain	100000000.0	40	11
+27	blockasset	105000	12	NFT	 Solana 	 DAO Maker 	0.0	1.0	blockasset	09/12/21	solana	320000000.0	29	12
+28	yin-finance	235000	11	DeFi	 Fenbushi Capital 	 Jump trading 	0.0	0.0	yin-finance	15/11/21	ethereum	100000000.0	72	11
+29	resource-finance	1220000	8	Protocol	 Future Perfect 	0	0.0	0.0	resource-protocol	22/11/21	celo	100000000.0	50	11
+30	numbers-protocol	1195000	63	Protocol	 Binance 	 MarketMaker.io 	0.0	1.0	numbers-protocol	18/11/21	ethereum	42382500.0	54	11
+31	demole	95000	21	Gaming	 DAO Maker 	 MarketMaker.io 	0.0	1.0	demole	19/10/21	binance-smart-chain	500000000.0	75	10
+32	clearpool	95000	64	DeFi	 Sequoia 	 Skynet Trading 	0.0	0.0	clearpool	28/10/21	ethereum	1000000000.0	66	10
+33	envoy	125000	9	NFT	 Solidity Ventures 	 Kairon Labs 	0.0	0.0	envoy-network	03/11/21	ethereum	100000000.0	76	11
+34	warena	95000	41	Gaming	 M6 	 Dark Pool 	0.0	1.0	warena	09/10/21	binance-smart-chain	100000000.0	72	10
+35	3kingdoms	175000	38	Gaming	 Cinchblock 	 MarketMaker.io 	0.0	0.0	the-three-kingdoms	13/10/21	binance-smart-chain	1000000000.0	70	10
+36	dark-frontiers	120000	36	Gaming	 DAO Maker 	 DAO Maker 	0.0	1.0	dark-frontiers	08/10/21	binance-smart-chain	250000000.0	74	10
+37	heroesempires	120000	87	Gaming	 Megala 	 MarketMaker.io 	0.0	1.0	heroes-empires	11/10/21	binance-smart-chain	1000000000.0	71	10
+38	orion-money	445000	47	DAPP	 Delphi 	 DAO Maker 	0.0	0.0	orion-money	30/09/21	ethereum	1000000000.0	20	9
+39	nftrade	495000	22	NFT Marketplace	 DAO Maker 	 MarketMaker.io 	1.0	1.0	nftrade	24/09/21	ethereum	135000000.0	33	9
+40	gamefi	95000	352	Launchpad	 DAO Maker 	0	1.0	1.0	gamefi	11/09/21	binance-smart-chain	15000000.0	31	9
+41	snook	195000	10	Gaming	0	 GSR 	0.0	0.0	snook	07/09/21	polygon-pos	39927153.04	79	9
+42	kaby-arena	95000	25	Gaming	 Icetea Labs 	0	0.0	1.0	kaby-arena	31/08/21	binance-smart-chain	153791462.77482	73	8
+43	marnotaur	100000	20	DeFi	0	0	0.0	0.0	marnotaur	25/10/21	binance-smart-chain	150000000.0	72	10
+44	chronicle	275000	15	NFT	 Dominance Ventures 	 TokenMania 	0.0	1.0	chronicle	17/09/21	ethereum	100000000.0	48	9
+45	brokoli	300000	29	NFT	 DAO Maker 	 DAO Maker 	0.0	1.0	brokoli	05/10/21	ethereum	125000000.0	59	10
+46	coinspaid	95000	10	Financial Services	 AU21 	0	0.0	0.0	coinspaid	31/08/21	ethereum	800000000.0	73	8
+47	dinox	200000	44	Gaming	 DAO Maker 	 MarketMaker.io 	1.0	1.0	dinox	29/07/21	ethereum	160000000.0	50	7
+48	derace	355000	165	Gaming	 DAO Maker 	 MarketMaker.io 	1.0	1.0	derace	03/08/21	ethereum	120000000.0	48	8
+49	vent-finance	168000	42	DeFi	 DAO Maker 	 MarketMaker.io 	0.0	1.0	vent-finance	10/09/21	ethereum	250000000.0	46	9
+50	infinity-pad	100000	35	Launchpad	0	0	0.0	0.0	infinity-pad	26/07/21	ethereum	1000000000.0	26	7
+51	opulous	1000000	151	DeFi	 DAO Maker 	 DAO Maker 	1.0	1.0	opulous	23/09/21	ethereum	500000000.0	27	9
+52	formation-fi	200000	14	DeFi	 Genblock 	0	0.0	1.0	formation-fi	18/06/21	ethereum	1000000000.0	25	6
+53	gamestarter	335000	45	Launchpad	 DAO Maker 	 DAO Maker 	1.0	1.0	gamestarter	11/08/21	ethereum	100000000.0	70	8
+54	pera-finance	245000	5	DeFi	 Existential 	 MarketMaker.io 	0.0	1.0	pera-finance	11/07/21	avalanche	125350784.0	20	7
+55	openocean	100000	26	Trading and Investment	 Binance 	0	0.0	1.0	openocean	12/07/21	binance-smart-chain	1000000000.0	25	7
+56	delta-theta	300000	6	Trading and Investment	 Three Commas 	 MarketMaker.io 	0.0	0.0	delta-theta	16/07/21	ethereum	99755226.0	22	7
+57	lossless-protocol	250000	34	Security	 DAO Maker 	 Dark Pool 	1.0	1.0	lossless	03/06/21	ethereum	100000000.0	24	6
+58	ternoa	150000	28	Infastructure	 LD Capital 	0	0.0	1.0	coin-capsule	31/05/21	ethereum	2500000000.0	18	5
+59	spherium	190000	4	Financial Services	0	0	0.0	1.0	spherium	18/08/21	ethereum	12923347.0	73	8
+60	gold-fever	105000	69	Gaming	 DAO Maker 	 DAO Maker 	1.0	1.0	gold-fever-native-gold	19/11/21	ethereum	170000000.0	34	11
+61	knit-finance	145000	36	DeFi	 AU21 	 MarketMaker.io 	0.0	0.0	knit-finance	02/09/21	ethereum	100000000.0	74	9
+62	fear-nfts	95000	39	Gaming	 DAO Maker 	 MarketMaker.io 	1.0	1.0	fear	26/05/21	ethereum	65000000.0	22	5
+63	ioi	200000	14	Gaming	 DAO Maker 	 MarketMaker.io 	0.0	1.0	ioi-token	11/06/21	ethereum	37500000.0	21	6
+64	epik	180000	62	Entertainment	 DAO Maker 	 Kairon Labs 	0.0	1.0	epik-prime	27/08/21	ethereum	2000000000.0	71	8
+65	lever-network	100000	11	Trading and Investment	 LD Capital 	0	0.0	0.0	lever-network	08/05/21	ethereum	100000000.0	67	5
+66	xcad-network	750000	91	DeFi	 DAO Maker 	 MarketMaker.io 	1.0	1.0	xcad-network	31/05/21	ethereum	198987808.659136	18	5
+67	maki-swap	100000	22	DeFi	0	0	0.0	0.0	makiswap	03/06/21	huobi-token	208955345.198495	24	6
+68	ispolink	100000	11	Blockchain Service	 AU21 	 Skynet Trading 	0.0	1.0	ispolink	07/05/21	ethereum	10000000000.0	64	5
+69	sienna	800000	9	DeFi	 Magnus Capital 	 Skynet Trading 	0.0	1.0	sienna	07/09/21	own	10000000.0	79	9
+70	legends-of-crypto	156000	19	Gaming	 SMC Capital 	0	0.0	1.0	locgame	03/05/21	ethereum	150000000.0	61	5
+71	crypto-prophecies	165000	11	Gaming	 Moonwhale 	0	0.0	0.0	the-crypto-prophecies	30/04/21	ethereum	245724066.0	51	4
+72	smoothy-finance	195000	7	DeFi	 Defiance 	0	0.0	1.0	smoothy	27/04/21	ethereum	100000000.0	50	4
+73	mochi	95000	10	Blockchain Service	 Magnus Capital 	 Darkpool 	0.0	0.0	mochi-market	25/04/21	ethereum	100000000.0	31	4
+74	hord	145000	72	DeFi	 DcentraLab 	 Kairon Labs 	0.0	0.0	hord	23/04/21	ethereum	320000000.0	55	4
+75	showcase	195000	5	Blockchain Service	 Blocktower 	0	0.0	1.0	showcase-token	29/04/21	ethereum	120000000.0	52	4
+76	cere-network	1000000	20	Infastructure	 Binance 	0	0.0	1.0	cere-network	08/11/21	ethereum	10000000000.0	75	11
+77	crowny	145000	34	Blockchain Service	 Rarestone 	 Acheron 	0.0	1.0	crowny-token	23/04/21	solana	813097988.0	55	4
+78	alphr	150000	13	Trading and Investment	0	0	0.0	0.0	alphr	27/04/21	ethereum	10000000.0	50	4
+79	orao-network	850000	3	Blockchain Service	0	0	0.0	0.0	orao-network	03/05/21	own	1000000000.0	61	5
+80	hapi	100000	20	Blockchain Service	 Hacken 	0	0.0	1.0	hapi	11/03/21	ethereum	691929.206667669	73	3
+81	aluna-social	300000	18	Trading	 DEXT Ventures 	0	0.0	1.0	aluna	15/03/21	ethereum	99788845.8145621	76	3
+82	dafi-protocol	150000	62	DeFi	 SL2 	 Acheron 	0.0	1.0	dafi-protocol	18/03/21	ethereum	2250000000.0	72	3
+83	yield-protocol	165000	22	DeFi	 Ex Network 	0	0.0	1.0	yield-protocol	06/03/21	ethereum	140661635.577524	77	3
+84	xend-finance	100000	40	DeFi	 NGC 	0	0.0	1.0	xend-finance	24/03/21	ethereum	200000000.0	65	3
+85	vaiot	250000	36	Infrastructure	0	0	0.0	1.0	vaiot	16/02/21	ethereum	400000000.0	95	2
+86	my-neighbor-alice	100000	327	GameFi	 Chromnia 	0	0.0	1.0	my-neighbor-alice	15/03/21	ethereum	100000000.0	76	3
+87	seascape	60000	61	Gaming	 LD Capital 	0	1.0	1.0	crowns	01/02/21	ethereum	10000000.0	77	2
+88	dao-maker	3900000	87	Launchpad	0	0	0.0	0.0	dao-maker	09/02/21	ethereum	277524000.0	95	2
+89	anrkey-x	125000	19	DeFi	0	0	0.0	0.0	anrkey-x	18/12/20	ethereum	200000000.0	95	12
+90	plotx	250000	8	DeFi	0	0	0.0	0.0	plotx	14/10/20	ethereum	200000000.0	53	10
+91	definer	96000	5	DeFi	0	0	0.0	0.0	definer	12/10/20	ethereum	168000000.0	52	10
+92	orion-protocol	3750000	293	DeFi	0	0	0.0	0.0	orion-protocol	16/07/20	ethereum	100000000.0	43	7
