@@ -1,7 +1,7 @@
 # Data Science Return on Investment from DAO Maker launches Predictor: Project Overview
 * Created a model that estimates ROI (MAE ~28x) of the projects that were launched on DAO Maker to help investors with their financial decisions.
 * Scraped all publicly launched projects from [DAO Maker](https://daomaker.com/) using **Beatufil Soup** and [Coingecko](https://www.coingecko.com/) API.
-* Using **nltk** engineered features from the text of each project's description to find importance of certain words (e.g. 'marketing') when it comes to success of a project.
+* Engineered features from the text of each project's description to find its importance when it comes to the success of a project.
 * Optimized **Lasso, Random Forest, and Support Vector Regressors** using GridsearchCV to reach the best model.
 * Built a client facing API using Flask
 
