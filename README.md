@@ -1,5 +1,6 @@
 # Data Science Return on Investment from DAO Maker launches Predictor: Project Overview
-* Created a model that estimates ROI (MAE ~28x) of the projects that were launched on DAO Maker to help investors with their financial decisions.
+* Created a model that estimates Return Of Investment of the digitalcurrencies projects that were launched on [DAO Maker](https://daomaker.com/) to help investors with their financial decisions. 
+* 'Mean Absolute Error' to be ~28x (Range of expected values to be 1x-352x)
 * Scraped all publicly launched projects from [DAO Maker](https://daomaker.com/) using **Beatufil Soup** and [Coingecko](https://www.coingecko.com/) API.
 * Engineered features from the text of each project's description to find its importance when it comes to the success of a project.
 * Optimized **Lasso, Random Forest, and Support Vector Regressors** using GridsearchCV to reach the best model.
@@ -30,7 +31,7 @@ After scraping the data, it needed to be cleaned up and engineered, so it was us
 *   Parsed numeric data out of Money Raised and ROI
 *   Filled NaN data by researching the Web
 *   Column for description length
-*   Tokenized, stemmed and counted commonly appeared words I thought could be interesting to explore
+*   Tokenized, stemmed and counted commonly appearing words I thought could be interesting to explore
 *   Calculated ratio - word frequency / description's length
 *   Simplified the date into DD/MM/YY from Timestamp
 *   Created column with Bitcoin Fear&Greed Index value on the day of the launch
