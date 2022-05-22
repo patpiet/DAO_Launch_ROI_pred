@@ -1,19 +1,19 @@
 # Data Science Return on Investment from DAO Maker launches Predictor: Project Overview
-* Created a model that estimates Return Of Investment of the digitalcurrencies projects that were launched on [DAO Maker](https://daomaker.com/) to help investors with their financial decisions. 
+* Created a model that estimates Return Of Investment of the digital currencies projects that were launched on [DAO Maker](https://daomaker.com/) to help investors with their financial decisions. 
 * 'Mean Absolute Error' to be ~28x (Range of expected values to be 1x-352x)
-* Scraped all publicly launched projects from [DAO Maker](https://daomaker.com/) using **Beatufil Soup** and [Coingecko](https://www.coingecko.com/) API.
-* Engineered features from the text of each project's description to find its importance when it comes to the success of a project.
+* Scraped all publicly launched projects from [DAO Maker](https://daomaker.com/) using **Beautiful Soup** and [Coingecko](https://www.coingecko.com/) API.
+* Engineered features from the text of each project's description to find its importance when it comes to the success of the project.
 * Optimized **Lasso, Random Forest, and Support Vector Regressors** using GridsearchCV to reach the best model.
 * Built a client facing API using Flask
 
 # Code and Resources Used
 * **Python Version:** 3.9
-* **Packages:** pandas, numpy, sklearn, matplotlib, seaborn, BeautifulSoup, flask, json, pickle, pycoingecko, wordcloud
+* **Packages:** pandas, numpy, sklearn, matplotlib, seaborn, nltk, BeautifulSoup, flask, json, pickle, pycoingecko, wordcloud
 * **For Web Framework Requirements:** ```pip install -r requirements.txt```
 * **Flask Productionization:** https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
 
 ## Web Scraping
-Gathered 93 launch samples with features. With each project, we got the following:
+Gathered 93 samples with features. With each project, we got the following:
 *   Project's name
 *   All Time High Return on Investment
 *   Money raised
@@ -27,9 +27,9 @@ Gathered 93 launch samples with features. With each project, we got the followin
 *   Project's description
 
 ## Data Cleaning
-After scraping the data, it needed to be cleaned up and engineered, so it was usable for machine learning process. The following changes were made: 
+After scraping the data, it needed to be cleaned up and engineered, so that it was usable for machine learning process. The following changes were made: 
 *   Parsed numeric data out of Money Raised and ROI
-*   Filled NaN data by researching the Web
+*   Filled NaN values properly
 *   Column for description length
 *   Tokenized, stemmed and counted commonly appearing words I thought could be interesting to explore
 *   Calculated ratio - word frequency / description's length
@@ -39,7 +39,7 @@ After scraping the data, it needed to be cleaned up and engineered, so it was us
 *   Grouped least appearing VCs and MMs as 'other'
 
 ## Exploratory Data Analysis
-Found some insights by visualizing data with **seaborn** and **matplotlib**. The other useful way to analyze was to create pivot tables.
+Found some insights by visualizing data with **seaborn** and **matplotlib**. The other useful way to analyze data was through pivot tables.
 
 **Correlation of numerical data.**
 * There is relatively significant correlation between raised money and All time high ROI
@@ -71,8 +71,8 @@ The first step was to transfrom the categorical data into dummy variables. Then 
 Three different algorithms were used for the project. The evaluation technique is Mean Absolute Error as it is pretty easy to interpret with regressors.
 
 Models:
-* **Lasso Regression** - Baseline for the model
-* **Random Forest** - the algorithm works fairly good with high-demansional data. As the data was mostly categorical it turns out to be a good fit
+* **Lasso Regression** - Baseline for the model.
+* **Random Forest** - the algorithm works fairly good with high-dimensional data. As the data was mostly categorical it turns out to be a good fit.
 * **Support Vector Regression** - the dataset size is pretty low, so we are free to use this algorithm.
 
 ## Model Performance
