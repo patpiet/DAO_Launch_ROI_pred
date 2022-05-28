@@ -1,4 +1,5 @@
-# Data Science Return on Investment from DAO Maker launches Predictor: Project Overview
+# Data Science Return on Investment from DAO Maker launches Predictor
+# Project Overview
 * Created a model that estimates Return Of Investment of the digital currencies projects that were launched on [DAO Maker](https://daomaker.com/) to help investors with their financial decisions. 
 * 'Mean Absolute Error' to be ~28x (Range of expected values to be 1x-352x)
 * Scraped all publicly launched projects from [DAO Maker](https://daomaker.com/) using **Beautiful Soup** and [Coingecko](https://www.coingecko.com/) API.
