@@ -1,4 +1,4 @@
-# Data Science Return on Investment from DAO Maker launches Estimator
+# Data Science Return on Investment from DAO Maker Launches Estimator
 # Project Overview
 * Created a model that estimates Return Of Investment of the digital currencies projects that were launched on [DAO Maker](https://daomaker.com/) to help investors with their financial decisions. 
 * 'Mean Absolute Error' to be ~28x (Range of expected values to be 1x-352x)
