@@ -1,6 +1,6 @@
 # Return on Investment from DAO Maker Launches Estimator
 # Project Overview
-* Created a model that estimates Return Of Investment of the digital currencies projects that were launched on [DAO Maker](https://daomaker.com/) to help investors with their financial decisions. 
+* Created a model that estimates All Time High Return Of Investment of the digital currencies projects that were launched on [DAO Maker](https://daomaker.com/) to help investors with their financial decisions. 
 * 'Mean Absolute Error' to be ~28x (Range of expected values to be 1x-352x)
 * Scraped all publicly launched projects from [DAO Maker](https://daomaker.com/) using **Beautiful Soup** and [Coingecko](https://www.coingecko.com/) API.
 * Engineered features from the text of each project's description to find its importance when it comes to the success of the project.
